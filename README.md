@@ -1,4 +1,4 @@
-# Olá, eu sou Felipe José Sens! 👋
+# Olá, Me chamo Felipe José Sens! 👋
 
 Bem-vindo ao meu portfólio de projetos. Sou um iniciante na parte de desenvolvimento, e pretendo mostrar aqui as principais soluções para determinados problemas.
 
